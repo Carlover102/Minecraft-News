@@ -2,7 +2,7 @@
 
 This site is dedicated to giving updates on the Realm
 
-## Latest News
+## Latest News:
 
 ### Server Reset
 ```markdown
